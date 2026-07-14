@@ -25,6 +25,6 @@ Feeling congruent in your gender isn't a luxury; in our data it sits at the cent
 
 **What it doesn't mean:** 
 
-This is a cross-sectional study: a snapshot, not a film. It shows associations, not proof that one thing causes another. Our sample was restricted to white participants and drawn mostly from the UK, so the findings shouldn't be assumed to generalise across ethnicities, cultures or healthcare systems where access to affirming care differs. Two of the quality of life measures (social and environmental) also showed weaker reliability in this sample, so findings for those domains deserve extra caution.
+This is a cross-sectional study. It shows associations, not proof that one thing causes another. Our sample was restricted to white participants and drawn mostly from the UK, so the findings shouldn't be assumed to generalise across ethnicities, cultures or healthcare systems where access to affirming care differs. Two of the quality of life measures (social and environmental) also showed weaker reliability in this sample, so findings for those domains deserve extra caution.
 
 The paper is open access if you'd like the full detail,and the data and materials are available on the OSF.
