@@ -1,6 +1,6 @@
 ---
 title: Tackling bisexual erasure
-paper: Tackling bisexual erasure: An explorative comparison of bisexual, gay and straight cisgender men's body image
+paper: "Tackling bisexual erasure: An explorative comparison of bisexual, gay and straight cisgender men's body image"
 journal: Body Image
 year: 2024
 doi: https://doi.org/10.1016/j.bodyim.2024.101763
