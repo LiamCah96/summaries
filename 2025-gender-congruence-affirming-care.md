@@ -8,6 +8,7 @@ date: 2026-07-14
 ---
 
 **What we wanted to know:** 
+
 Gender congruence means the sense that your body and life align with your gender identity, that you feel at home in yourself. We know it matters for trans people's wellbeing in general, but surprisingly little research has asked how gender congruence, body satisfaction and quality of life fit together specifically for trans men, or which parts of life (physical health, psychological wellbeing, social relationships, environment) are most affected.
 
 **What we did:** 
